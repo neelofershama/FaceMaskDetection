@@ -6,8 +6,8 @@
 trigger:
 - Main_class
 
-pool:
-  vmImage: ubuntu-latest
+pool: testvmss
+
 strategy:
   matrix:
     Python27:
