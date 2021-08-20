@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: testvmss
+pool: new_11
   
 strategy:
   matrix:
