@@ -6,7 +6,7 @@
 trigger:
 - Main_class
 
-pool: testpocvm
+pool: default
 
 strategy:
   matrix:
